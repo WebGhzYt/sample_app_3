@@ -24,6 +24,7 @@ gem 'bootstrap-will_paginate', '0.0.10'
 gem 'carrierwave',             '0.10.0'
 gem 'mini_magick',             '3.8.0'
 gem 'fog',                     '1.23.0'
+gem 'aws-sdk'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
