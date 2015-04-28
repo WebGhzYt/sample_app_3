@@ -64,8 +64,5 @@ config.action_mailer.smtp_settings = {
     :authentication => :login,
     :user_name => "engrohitjain5@gmail.com",
     :password => "rohit_121"
-}x
-
-
-
+}
 end
