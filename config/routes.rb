@@ -14,6 +14,7 @@ Rails.application.routes.draw do
 
   resources :welcome
   resources :users
+  resources :account_activations, only: [:edit]
 
   # get 'welcome/index'
 
